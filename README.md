@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Lux!
+
+I am a beginner programmer doing it mainly for fun.
 
 <!--
 **LuxionGG/LuxionGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
